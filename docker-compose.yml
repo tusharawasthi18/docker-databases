@@ -2,3 +2,4 @@ include:
   - mongo.yml
   - postgres.yml
   - redis.yml
+  - mysql.yml
